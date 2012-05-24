@@ -1,9 +1,9 @@
 // TesteC.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-#include "snap.h"
-#include "SmartHandle.h"
+#include "stdafx.hpp"
+#include "snap.hpp"
+#include "SmartHandle.hpp"
 #include <Windows.h>
 
 bool debug = true;
